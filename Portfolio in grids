@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<head>
+    <title>Example</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://colorhunt.co/palette/176401">
+</head>
+<style>
+    .red{
+        background-color:paleturquoise;
+    }
+    .green{
+        background-color:plum;
+    }
+    .orange{
+        background-color:powderblue;
+    }
+
+</style> 
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-4 red" style="height: 100;">
+                <h1>Aabya Singh</h1>
+                <h2 >Tech Enthusiast</h2>
+                <a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest-square" style="font-size:30px;margin-left: 55px;"></i></a>
+                <a href="https://www.facebook.com/"><i class="fa fa-facebook-square" style="font-size:30px;margin-left: 15px;"></i></a>
+                <a href="https://www.instagram.com/"><i class="fa fa fa-instagram" style="font-size:30px;margin-left: 15px;"></i></a>
+                <a href="https://www.twitter.com/"><i class="fa fa fa-twitter" style="font-size:30px;margin-left: 15px;"></i></a>
+                <h2 style="font-size: 18px;">Phone No. : 9176211027</h2>
+                <h2 style="font-size: 18px;">Email : singhaabya2710@gmail.com</h2>
+                <h2 style="font-size: 18px;">Address : Tower 1 ,Estancia, Guduvancherry</h2>
+            </div>
+            <div class="col-4 green"><h1>Career Objective</h1>
+                <br>
+                <p >To work for a professional organization which offers challenging opportunities, an excellent cooperative working environment to utilize my professional and technical knowledge, enabling me to improve my abilities,develop my functionality, and improve the organization plans and work procedures.</p>
+                <br> Educational Qualification
+                <br>
+                <ul style="list-style-type:circle">
+                <li>SRM Institute of science and technology</li>
+                <p>3rd Year B.Tech Software Engineering | CGPA:8.08  </p>
+
+                <li>GNPS School</li>
+                <p>CBSE 12th Class | Percentage:77.8%</p>
+
+                <li>GNPS School</li>
+                <p>CBSE 10th Class | CGPA:9.8</p>
+                </ul>
+                <br>
+            </div>
+            <div class="col-4 orange"><h1>Skills </h1>
+                <ul style="list-style-type: disc;">
+                    <li>Programming Languages</li>
+                        <ul>
+                            <li>C++</li>
+                            <li>C</li>
+                            <li>Java</li>
+                            <li>Python</li>
+                            <li>Javascript</li>
+                        </ul>
+                    <li>Testing Tools</li>
+                        <ul>
+                            <li>Worked on Micro UFT.</li>
+                            <li>Worked on JUnit.</li>
+                        </ul>
+                    <li>Back-end Development</li>
+                        <ul>
+                            <li>My SQL.</li>
+                        </ul>
+                    <li>Front-end Development</li>   
+                        <ul>
+                            <li>HTML and CSS.</li>
+                        </ul>  
+                    <li>Major Interests</li>
+                        <ul>
+                            <li>Internet of things: Worked with arduino UNO , node MCU , relays , seven diffrent sensors , raspberry pi and displayed on 7-segment display.</li>
+                        </ul>
+                </ul>
+        
+                Personal and Social Skills
+                <ul>
+                    <li>Managing Relationships.</li>
+                    <li>Active Listening</li>
+                    <li>Team Lead.</li>
+                </ul>
+        
+                Languages Known
+                <ul>
+                    <li>Hindi</li>
+                    <li>English</li>
+                    <li>German</li>
+                </ul>
+        
+                Internship
+                <ul>
+                    <li>Done Summer Internship in NewGen Technologies Software Limited, Noida</li>
+                </ul>
+            </div>
+</body>   
